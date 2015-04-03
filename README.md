@@ -1,1 +1,1 @@
-# backpacking trails
+backpacking trails
